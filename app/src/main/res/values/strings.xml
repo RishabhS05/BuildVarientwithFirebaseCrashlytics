@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name_release">BuildVarient</string>
+    <string name="app_name_development">BuildVarient-dev</string>
+    <string name="app_name_stage">BuildVarient-stage</string></resources>
